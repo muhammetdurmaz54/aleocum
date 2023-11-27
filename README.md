@@ -1,4 +1,4 @@
-git remote add origin [//your github url]
+git remote add origin [https://github.com/muhammetdurmaz54/aleocum]
 
 //pull those changes
 
